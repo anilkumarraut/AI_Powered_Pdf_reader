@@ -8,4 +8,3 @@
 
 # Need to give update on git clone 
 3) New module on how to read form AWS
-5) 1k commit goal
