@@ -25,8 +25,7 @@ hi this is a test change!
 - @tanstack/react-query
 - @clerk/nextjs
 - clsx
-- tailwind-merge
-
+- tailwind-
 # Installation
 
 Follow the steps below to install and setup the project:
