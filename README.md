@@ -16,7 +16,6 @@ hi this is a test change!
 - AWS SDK
 - OpenAI API
 - Stripe
-- Axios
 - Pinecone
 - Drizzle-kit
 - OpenAI Edge
